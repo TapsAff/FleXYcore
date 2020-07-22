@@ -1,6 +1,6 @@
-# FlexiCore
+# FleXYcore
 
-### Flexicore is a multi-functional rapid prototyping CoreXY platform integrating...
+### FleXYcore is a multi-functional rapid prototyping CoreXY platform integrating...
 - FDM 3D Printing, for PLA and Nylon
 - Laser Cutting, for PCB Tracing and MDF cutting
 - CNC Milling, for PCB Milling
